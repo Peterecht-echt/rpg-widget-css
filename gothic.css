@@ -4,7 +4,7 @@
    Moonsilver on cold stone, lit by a guttering candle.
    ============================================================ */
 
-:root {
+:root, :host {
   /* --- Night & Stone --- */
   --night-deep:  #07060b;
   --night:       #0b0a11;
